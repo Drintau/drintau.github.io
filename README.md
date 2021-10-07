@@ -1,5 +1,4 @@
-## Welcome to GitHub Pages
-个人的仓库合集，便于查看。
+## mjhct's GitHub Pages
 
 ### 学习仓库
 1. [记事本](https://mjhct.github.io/NoteBook/)
