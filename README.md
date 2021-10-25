@@ -1,4 +1,4 @@
-## My GitHub Pages
+# My GitHub Pages
 
 ### 学习仓库
 1. [记事本](https://mjhct.github.io/NoteBook/)
