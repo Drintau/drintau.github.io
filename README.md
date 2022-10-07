@@ -2,6 +2,7 @@
 
 ### 学习仓库
 1. [设计模式](https://drintau.github.io/DesignPattern)
+2. [Redis数据库](https://drintau.github.io/StudyRedis/)
 
 ### 项目仓库
 1. [账号管理器](https://drintau.github.io/AccountManager)
