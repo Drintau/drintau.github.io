@@ -1,7 +1,7 @@
 # My GitHub Pages
 
 ### 学习仓库
-1. [设计模式](https://drintau.github.io/DesignPattern)
+1. [设计模式](https://drintau.github.io/StudyDesignPattern)
 2. [Redis数据库](https://drintau.github.io/StudyRedis/)
 
 ### 项目仓库
