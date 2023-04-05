@@ -1,5 +1,3 @@
-# My GitHub Pages
-
 ### 学习仓库
 1. [设计模式](https://drintau.github.io/StudyDesignPattern)
 2. [Linux操作系统](https://drintau.github.io/StudyLinux)

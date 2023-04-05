@@ -1,9 +1,9 @@
 theme: minima
-title: Your awesome title
+title: My GitHub Pages
 author:
-  name: GitHub User
-  email: your-email@domain.com
-description: 描述
+  name: Drintau
+  email:
+description:
 
 minima:
   show_excerpts: false
