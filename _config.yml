@@ -4,3 +4,6 @@ author:
   name: GitHub User
   email: your-email@domain.com
 description: 描述
+
+minima:
+  show_excerpts: false
