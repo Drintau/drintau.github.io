@@ -2,6 +2,8 @@ title: My GitHub Pages
 description: 个人仓库合集，便于查看
 show_downloads: false
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-architect
+
+lang: zh-CN
 
 markdown: GFM
