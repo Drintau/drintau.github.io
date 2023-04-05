@@ -1,9 +1,3 @@
-theme: minima
+theme: jekyll-theme-cayman
 title: My GitHub Pages
-author:
-  name: Drintau
-  email:
 description:
-
-minima:
-  show_excerpts: false
