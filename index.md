@@ -2,8 +2,6 @@
 layout: default
 ---
 
-如果这是一行非标题
-
 ### 学习仓库
 
 1. [设计模式](https://drintau.github.io/StudyDesignPattern)
