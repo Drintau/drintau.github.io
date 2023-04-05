@@ -1,5 +1,6 @@
 ---
 layout: default
+title: GitHub Pages
 ---
 
 ### 学习仓库
