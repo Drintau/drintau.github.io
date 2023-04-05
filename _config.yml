@@ -6,4 +6,5 @@ theme: jekyll-theme-architect
 
 lang: zh-CN
 
+# markdown处理器，不填或选填：kramdown 或 GFM
 markdown: GFM
