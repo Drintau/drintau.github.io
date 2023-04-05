@@ -15,4 +15,3 @@
 ### 其他仓库
 
 1. [记事本](https://drintau.github.io/NoteBook)
-2. 
