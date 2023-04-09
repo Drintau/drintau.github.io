@@ -6,8 +6,7 @@ title: GitHub Pages
 ## 学习仓库
 
 1. [设计模式](https://drintau.github.io/StudyDesignPattern)
-2. [Linux操作系统](https://drintau.github.io/StudyLinux)
-3. [Redis数据库](https://drintau.github.io/StudyRedis)
+2. [Redis数据库](https://drintau.github.io/StudyRedis)
 
 ## 项目仓库
 
